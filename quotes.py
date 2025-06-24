@@ -11,7 +11,6 @@ quotes = [\
     "Believe you can and you're halfway there.",\
     "Your limitation\'97it\'92s only your imagination.",\
     "Push yourself, because no one else is going to do it for you.",\
-    "Sometimes later becomes never. Do it now.",\
     "Great things never come from comfort zones.",\
     "Dream it. Wish it. Do it.",\
     "Success doesn\'92t just find you. You have to go out and get it.",\
@@ -25,3 +24,7 @@ if __name__ == "__main__":\
     print("\uc0\u55357 \u56481  Motivational Quote of the Day \u55357 \u56481 ")\
     print("-----------------------------------")\
     print(get_random_quote())}
+
+
+
+vvbnbnnmbnbggvbgbg
